@@ -19,7 +19,7 @@
 <img src="readme/StaticDiagram.png" width=90%>
 
 ### (2) Dynamic Diagram
-<img src="readme/DynamicDiagram.png" width=90%> 
+<img src="readme/DynamicDiagram_2.png" width=90%> 
 
 ## 4. API References
 <img src="readme/API/API_1.png" width=80%><img src="readme/API/API_2.png" width=80%>
